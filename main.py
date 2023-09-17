@@ -123,7 +123,7 @@ def game():
     #         return player_turn
 
     # Computer Vs. Human
-    player_turn = 'O'
+    player_turn = 'X'
     while True:
         if player_turn == 'X':
             user_pos = user_input()
